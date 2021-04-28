@@ -1,0 +1,8 @@
+{
+  "name": "yt-fivem",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/SwellingtonSoares/yt-fivem.git",
+  "author": "Archnael Santos <home.win32@gmail.com>",
+  "license": "MIT"
+}
